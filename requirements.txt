@@ -1,0 +1,12 @@
+# dbt & Snowflake
+dbt-core==1.5.5
+dbt-snowflake==1.5.5
+
+# Compatible SQLAlchemy version
+sqlalchemy==1.4.49
+
+# Data download + analysis
+yfinance==0.2.40
+
+# Airflow + Provider
+apache-airflow-providers-snowflake==4.1.0
